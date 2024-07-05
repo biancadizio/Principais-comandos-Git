@@ -5,7 +5,8 @@
 ![image](https://github.com/biancadizio/Principais-comandos-Git/assets/88462534/c8730f7d-8482-4ec3-a905-fb63f9978e78)
 
 
-![image](https://github.com/biancadizio/Principais-comandos-Git/assets/88462534/4b4a86f3-5fa8-4f28-8c22-cf8055f09bf1)
+![image](https://github.com/biancadizio/Principais-comandos-Git/assets/88462534/8d4274f5-c0ba-493f-958a-accf11658541)
+
 
 
 # Fluxo no Git de forma geral
